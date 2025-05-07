@@ -1,3 +1,4 @@
+cartas super trunfo
 #include <stdio.h>
 // Definição da struct para armazenar os dados 
 struct Cidade {
